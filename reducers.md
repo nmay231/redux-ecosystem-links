@@ -8,7 +8,7 @@
   A utility to wrap many copies of a single Redux reducer into a single key-based reducer.
   
 - **reduce-reducers**  
-  https://github.com/acdlite/reduce-reducers  
+  https://github.com/redux-utilities/reduce-reducers  
   Reduce multiple reducers into a single reducer from left to right.
   
 - **redux-delegator**  
@@ -140,11 +140,11 @@
   Better redux combineReducers, initial state injectable.
   
 - **redux-callback-reducer**  
-  https://github.com/soofty/redux-callback-reducer  
+  https://github.com/syabro/redux-callback-reducer  
   redux-callback-reducer allows any function or class method to make a reducer for your state, without adding any additional actions.
   
 - **redux-curried-reducers**  
-  https://github.com/rvikmanis/redux-curried-reducers  
+  https://github.com/rvikmanis/redux-fp  
   Curried reducer utilities for Redux - create reducers declaratively via function composition.  Works really well with functional utilities like lodash-fp and Ramda.
   
 - **redux-reducers-hub**  
@@ -180,7 +180,7 @@
   Define reducers using a builder pattern instead of switch statements.
   
 - **redux-arg**  
-  https://github.com/TheComfyChair/redux-arg  
+  https://github.com/TheComfyChair/redux-scc  
   Redux automated reducer generator
   
 - **redux-common-reducers**  
@@ -308,7 +308,7 @@
   Utility library for modular redux reducers.
   
 - **redux-reducer-toolkit**  
-  https://github.com/RocketPuppy/redux-reducer-toolkit  
+  https://github.com/RocketPuppy/redux-consumer-toolkit  
   This library implements several functions that are useful for combining, composing, and altering reducers. Each of this functions returns a memoized reducer, similar to reselect, so data isn't re-computed unnecessarily. The inspiration for this library was fantasyland-redux, only instead of basing it off of the fantasyland specification it is based off of the static-land specification. This made it simple to build this as a library instead of pinning it to a specific redux version.
   
 - **vitruvius**  
@@ -324,7 +324,7 @@
   A redux reducer for standard actions that just need to merge data to state
   
 - **redux-keto**  
-  https://github.com/Airbitz/redux-keto  
+  https://github.com/EdgeApp/redux-keto  
   A tool for building "fat reducers", which take an extra props argument in addition to the normal state and action arguments. Fat reducers use this extra parameter to pass values between each other in a fully-reactive, auto-updating way.
   
 - **redux-creators**  
@@ -356,7 +356,7 @@
   A Redux utility belt for reducers and actions. Inspired by acdlite/recompose. 
   
 - **redux-exr**  
-  https://github.com/paska27/redux-exr  
+  https://github.com/sepo27/redux-di  
   A set of `combineReducers` alternatives that allow specifying dependencies between branches.
   
 - **redux-combiner**  
@@ -368,7 +368,7 @@
   A reducer combination utility that uses function names as action names
   
 - **redux-split-reducer**  
-  https://github.com/jbradle/redux-split-reducer  
+  https://github.com/jbradle/redux-cond-reducer  
   Library for more redux friendly configuration of reducers, based on Ramda. It allows splitting reducers on the same state branch. 
 
   
@@ -461,7 +461,7 @@
   A higher order reducer for performing state calculations after the initial reduction has completed.
   
 - **higher-order-reducers**  
-  https://github.com/Nehle/higher-order-reducers  
+  https://github.com/Nehle/horux  
   A simple utility belt library for building and composing redux reducers using higher order functions.
   
 - **redux-compose-hors**  
@@ -496,10 +496,6 @@
   https://github.com/aakashns/dextrous  
   A tiny library with utilities for Redux reducer composition.
 
-- **redux-reorder**  
-  https://github.com/nonnontrivial/redux-reorder  
-  Higher-order reducer that tracks order fluctuation within iterable state.  Appends a given reducer with a representation of how its new order has changed from a previous order.
-  
 - **redux-reset-state**  
   https://github.com/cadleo/redux-reset-state  
   A redux plugin to reset the redux state you specify 
@@ -647,7 +643,7 @@
   Allows dynamically injecting reducers into a redux store at runtime
   
 - **redux-injectable-reducer**  
-  https://github.com/jomaxx/redux-injectable-reducer  
+  https://github.com/jomaxx/redux-extendable-reducer  
   Redux store reducer capable of lazily injecting parts of the state tree. Useful for large single page applications that utilize bundle splitting.
   
 - **Paradux**  

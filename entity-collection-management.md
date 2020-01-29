@@ -8,7 +8,7 @@
 #### Client-Only Collections
 
 - **redux-orm**  
-  https://github.com/tommikaikkonen/redux-orm  
+  https://github.com/redux-orm/redux-orm  
   A small, simple and immutable ORM to manage relational data in your Redux store. Provides a Model-like interface on top of a portion of your store, allowing you to define relations between Models, store values as "tables" in your state, and make immutable updates by assigning values to Model fields.
 
 - **redux-entities-reducer**  
@@ -68,7 +68,7 @@
   Crudux is an attempt to dry up applications using Redux.  We noticed we kept rewriting the basic entity reducers/selectors. From those applications I've distilled some basic principals into crudux.  Keeps request metadata state, handles paging, doesn't mess with your entities.
   
 - **redux-patterns**  
-  https://github.com/piersadrian/redux-patterns  
+  https://github.com/piersadrian/altura  
   A set of actions and reducers for CRUD REST handling
 
 - **entities-reducer**  
@@ -204,7 +204,7 @@
   A simple utility library to help you manage CRUD, API or any other async operations with redux.
 
 - **blue-chip**  
-  https://github.com/mfpiccolo/blue-chip
+  https://github.com/blue-chip-js/blue-chip
   Accepts payloads from GraphQL or JsonAPI servers, normalizes them into your store and provides an ORM like syntax for retrieving the data for use.
 
 #### Client/Server Collections
@@ -242,7 +242,7 @@
   Library for easy data managing between api and redux store. Library consists of middleware, reducers and action creators that enable simple handling of data in CRUD operations with API.
   
 - **redux-jam**  
-  https://github.com/ABASystems/redux-jam  
+  https://github.com/uptick/redux-jam  
   A Redux JSON API model layer
   
 - **Redux Clerk**  
@@ -262,7 +262,7 @@
   An attempt to standardize restful calls and responses within a growing redux application
   
 - **resourceful-redux**  
-  https://github.com/jmeas/resourceful-redux  
+  https://github.com/jamesplease/redux-resource  
   A system for managing 'resources': data that is persisted to remote servers.
   
 - **redux-query**  
@@ -282,7 +282,7 @@
   Prebuilt reducers and action creators for handling of async collections
   
 - **redux-ntities**  
-  https://github.com/al-zah/redux-ntities  
+  https://github.com/aleks-zah/redux-ntities  
   A redux entities management library. It consists of 2 HOCs and a middleware. It allows you to persist your entities in IndexedDB/localStorage and provides common approach to save your entites in redux state.
   
 - **redux-resx**  
@@ -314,7 +314,7 @@
   redux-store-filler will retrieve data via API, normalize it, put it in Redux store and follow foreign keys if necessary. If data is already present in store, it will call API if only it's outdated.
   
 - **redux-crud-observable**  
-   https://github.com/FoodMeUp/redux-crud-observable  
+   https://github.com/hourliert/redux-crud-observable  
    Actions, reducers & epics for managing crud redux state
    
  - **redux-restful-resource**  
@@ -326,7 +326,7 @@
   Define Redux modules for fetching data from API endpoints.  
   
 - **Hyperduce**  
-  https://github.com/jondot/hyperduce  
+  https://github.com/jondot/hyperdux  
   A complete and extensible Redux workflow for handling RESTful resources. You get actions, state, and reducer out of the box for handling backend data.
   
 - **active-redux**  

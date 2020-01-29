@@ -82,7 +82,7 @@
   Make your code more easy to reason about with a more natural language for your logic, using rules fired by actions and reacting to a given set of facts. Based on the forward-chaining rules in Clojure called Clara.
   
 - **redux-actions-sequences**  
-  https://github.com/AndrewRevinsky/redux-actions-sequences  
+  https://github.com/andrevinsky/redux-actions-sequences  
   Make sequences of redux actions trigger a new action
   
 - **redux-action-enhancer-middleware**  
@@ -138,7 +138,7 @@
   Allows you to dispatch multiple actions calls using a single dispatch call.
   
 - **redux-camel**  
-  https://github.com/kenny-hibino/redux-camel  
+  https://github.com/hibiken/redux-camel  
   Redux Camel middleware makes sure that action objects use camelCase keys before reaching reducers.
   
 - **redux-hook-middleware**  
@@ -202,7 +202,7 @@
   Implements the declarative Subscriptions pattern seen in the Elm architecture to be used in Redux.
   
 - **redux-action-middleware**  
-  https://github.com/Gaya/redux-action-middleware  
+  https://github.com/Gaya/redux-listeners  
   Redux middleware which allows the user to acts upon fired action types to the store.
   
 - **redux-listener**  
@@ -214,7 +214,7 @@
   Use the listener pattern with Redux middleware. 
   
 - **redux-data-dispatch**  
-  https://github.com/benjaminhadfield/redux-data-dispatch  
+  https://github.com/benmoose/redux-data-dispatch  
   An enhancer to redux reducers that makes it easy to define dependent reducers to store data returned by a single action. This promotes a modular redux design where each reducer is responsible for storing one type of data.
   
 - **redux-action-spy**  
@@ -237,7 +237,7 @@
   Configurable redux middleware that sends your actions & user profile data to Mixpanel. It also works with React Native.
   
 - **redux-keen**  
-  https://github.com/pavelvolek/redux-keen  
+  https://github.com/luskhq/redux-keen  
   Redux middleware for sending analytics to Keen.
   
 - **redux-segment**  
@@ -300,7 +300,7 @@
   Redux middleware to coerce native javascript types into the equivalent Mori types. 
   
 - **Redux Provider Middleware**  
-  https://github.com/reduxible/redux-provider-middleware  
+  https://github.com/pitzcarraldo/redux-provider-middleware  
   A redux middleware which provides Angular-like providers.
   
 - **redux-inject**  
@@ -331,7 +331,7 @@
   Redux middleware that displays colourful notification badges in the favicon area.
   
 - **Redux Worker Middleware**  
-  https://github.com/keyanzhang/redux-worker-middleware  
+  https://github.com/keyz/redux-worker-middleware  
   The goal of the middleware is to provide an unopinionated workflow that delegates expensive operations to Web Workers. 
   
 - **Redux Sounds**  
@@ -347,7 +347,7 @@
   Helps you build multi-threaded JavaScript applications by moving your reducer into a Web Worker. It also provides a simple API for you to register tasks to be executed in the web worker outside of Redux. 
 
 - **Redux Provider**  
-  https://github.com/reduxible/redux-provider-middleware  
+  https://github.com/pitzcarraldo/redux-provider-middleware  
   The providerMiddleware provides providers that similar with providers of Angular.js. A providerMiddleware injects providers that returns new or cached objects to action. It also similar with Spring Beans.
 
 - **redux-publish-action**  
@@ -371,7 +371,7 @@
   Redux middleware which will store (part of) the payload of specified actions in the url and is able to retrieve an initial state from the url
   
 - **redux-replaceable-middleware**  
-  https://github.com/pgte/redux-replaceable-middleware  
+  https://github.com/yldio/redux-replaceable-middleware  
   Redux middleware that allows replacement with another middleware.
   
 - **redux-cookie**  

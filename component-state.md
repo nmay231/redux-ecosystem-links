@@ -12,11 +12,11 @@
   Creates component wrappers with per-instance local state stored in Redux, as well as locally scoped actions and reducers
   
 - **redux-component**  
-  https://github.com/tomchentw/redux-component  
+  https://github.com/tomchentw-deprecated/redux-component  
   Manage a component's local state using a local redux store.  A isolated redux store is created for each React component instance.
   
 - **redux-state**  
-  https://github.com/babotech/redux-state  
+  https://github.com/galkinrost/redux-state  
   connect() style implementation of storage a local state for reusable components
   
 - **redux-component-state**  
@@ -100,7 +100,7 @@
   Provide a isolated redux style way to handle state for components
   
 - **Lean Redux**  
-  https://github.com/epeli/lean-redux  
+  https://github.com/esamattis/lean-redux  
   Redux state like local component state. Basic Redux state access and updating should be simple as it is with the component local state. Redux state can be scoped to the components. Plays well with other tools in the Redux community. Lean Redux is build on top of the new connectAdvanced() primitive of React Redux 5.0 and implements the same optimizations as connect().
   
 - **Modux**  
@@ -117,7 +117,7 @@
   
 - **redux-doghouse**  
   https://github.com/DataDog/redux-doghouse  
-  http://engineering.datadoghq.com/redux-doghouse--creating-reusable-react-redux-components-through-scoping/  
+  https://www.datadoghq.com/blog/engineering/redux-doghouse-reusable-react-redux-components-through-scoping/  
   redux-doghouse is a library that aims to make reusable components easier to build with Redux by scoping actions and reducers to a particular instance of a component.  It includes tools to help you build Scoped Actions and Scoped Reducers with minimal modifications to your code.
   
 - **redux-dialog**  
@@ -194,7 +194,7 @@
   provides a Redux store enhancer that will listen for specific action for adding and removing new reducers. It will keep an array with the store's original reducer and the temporary ones.  To facilitate usage with React, redux-transient also provides a Higher-Order component to attach a transient reducer during a React component's life cycle - meaning it will attach when mounting, and detach when unmounting.
   
 - **alveron**  
-  https://github.com/rofrischmann/alveron  
+  https://github.com/robinweser/alveron  
   Alveron is a highly opinionated state architecture for React using Redux.  It is heavily inspired by The Elm Architecture and aims to simplify component-based state management.
   
 - **redux-fractal-connect**  
@@ -273,7 +273,7 @@
   Local private slices of a global store for component encapsulation in a Redux model.  Redux does not like the cursors in their general implementation, but the criticism is focused purely on the low-level ability to mutate the state at will. redux-cursor resolves that by relying on actions just as base Redux.
   
 - **redux-mount**  
-  https://github.com/popc0rn/redux-mount  
+  https://github.com/lvidakovic/redux-mount  
   Mount data on a path and change state values on the fly. No need to create reducers, actions, or selectors to handle view-specific state yourself.
   
 - **reduceless**  
@@ -293,11 +293,11 @@
   A set of utility functions for dealing with redux state via Ramda lenses 
   
 - **k-redux-factory**  
-  https://github.com/alakarteio/k-redux-factory  
+  https://github.com/unirakun/k-redux-factory  
   Factory of Redux reducers and their associated actions and selectors for treating your Redux state as a key/value store.
   
 - **react-redux-values**  
-  https://github.com/ramitos/react-redux-values  
+  https://github.com/sergioramos/react-redux-values  
   Get and Set values from a redux store in a declarative way
   
 - **redux-pathspace**  
@@ -305,14 +305,14 @@
   Create path-based namespaces to contain action/reducer pairs using Ramda lenses under the hood 
   
 - **oberon-redux**  
-  https://github.com/oberonamsterdam/oberon-redux  
+  https://github.com/oberonamsterdam/redux-updaters  
   Update your state directly from your components without app-specific reducers or actions, by defining state tree paths.
   
   
 #### Modularity and Encapsulation
 
 - **redux-brick**  
-  https://github.com/leeching/redux-brick  
+  https://github.com/liqingfx/redux-brick  
   redux-brick is a simplified building strategy of Redux apps. Redux system could be built from Redux bricks.
   
 - **modular-react-redux**  
@@ -333,7 +333,7 @@
   Organize your redux store into partitions. Automatically manage state for each instance of your components. 
   
 - **redux-register-module**  
-  https://github.com/birdy-/redux-register-module  
+  https://github.com/immortal-tofu/redux-register-module  
   Allows you to register reducer and saga handler from your module. With this, your module stays a standalone package.
   
 - **redux-blocks**  
@@ -366,7 +366,7 @@
   Utilities for defining namespaced action dispatching and reducers
   
 - **redux-register-module**  
-  https://github.com/birdy-/redux-register-module  
+  https://github.com/immortal-tofu/redux-register-module  
   This package allows you to register reducer and saga handler from your module. With this, your module stay a standalone package.
   
 - **redux-export**  

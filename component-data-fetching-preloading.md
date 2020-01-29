@@ -2,7 +2,7 @@
 
 
 - **react-composer**  
-  https://github.com/kadirahq/react-komposer  
+  https://github.com/arunoda/react-komposer  
   Creates React container components that know how to fetch data from arbitrary data sources, including Promises, RxJS observables, Meteor's Tracker, or Redux stores
   
 - **Adrenaline**  
@@ -22,7 +22,7 @@
   react-reach is designed to be used along side redux and react. React-reach works as the layer that handles communication of data between React and graphQL. Reach enables developers to make queries and mutations against GraphQL.
   
 - **firedux**  
-  https://github.com/adjohnson916/firedux  
+  https://github.com/AndersDJohnson/firedux  
   Wraps the Firebase JavaScript API to dispatch Redux actions that optimisically & immediately read/write to an in-memory subset of your data from Firebase, then asynchronously pull & push data in the background.
   
 - **AutoAction**  
@@ -38,7 +38,7 @@
   GroundControl simplifies React-Router/Redux single page applications.  Organizes reducers based on route structure, and builds application state & replaces reducers on transition. Data fetching API to control when to render components & manage client / server differences (Universal API).
 
 - **ReduxAsyncConnect**  
-  https://github.com/Rezonans/redux-async-connect  
+  https://github.com/brocoders/redux-async-connect  
   It allows you to request async data, store them in redux state and connect them to your react component.
   
 - **redux-connect**  
@@ -62,7 +62,7 @@
   Experimental library to universally resolve your component's initial data. Per component you can specify a resolver. On the client side, the resolver is executed in componentDidMount() and on the server-side once you call waitForResolves(renderProps, store). This makes server-side rendering easy to implement
   
 - **react-gql**  
-  https://github.com/leeching/react-gql  
+  https://github.com/liqingfx/react-gql  
   A collection of helper functions to build a react app with redux and graphql.
   
 - **Relate**  
@@ -86,7 +86,7 @@
   Redux-Data is a companion to Redux that allows you to declare the data (i.e. records from your server) that your application uses. Redux-Data helps you query and cache data as well as perform mutations on the data.
   
 - **redux-fetch-data**  
-  https://github.com/nordsoftware/redux-fetch-data  
+  https://github.com/digiaonline/redux-fetch-data  
   Redux utility library for fetching data using promises on both server and client
   
 - **redial**  
@@ -158,7 +158,7 @@
   Redux provider to connect your falcor graph to your redux store
   
 - **redux-router-preload**  
-  https://github.com/babotech/redux-router-preload  
+  https://github.com/galkinrost/redux-router-preload  
   Universal preloading for redux-router
   
 - **subscription-container**  
@@ -174,7 +174,7 @@
   Redux middleware to make store.dispatch() return a promise which will be resolved when another specified action is dispatched, which is useful for universal(isomorphic) React Web Apps with redux and server-side rendering.
   
 - **redux-promise-wait**  
-  https://github.com/nealgranger/redux-promise-wait  
+  https://github.com/10xjs/redux-promise-wait  
   An indispensable tool for rendering Redux apps on the server.  Uses a store enhancer to run a callback function repeatedly until the Redux store state settles when all chains of asynchronous actions have resolved.
   
 - **redux-universal**  
@@ -202,7 +202,7 @@
   A declarative REST data loader for React/Redux
   
 - **react-quest**  
-  https://github.com/djgrant/redux-quest  
+  https://github.com/djgrant/react-quest  
   Declarative data fetching for universal React/Redux apps.
   
 - **redux-query**  
@@ -270,11 +270,11 @@
   A simple automated data refetcher for using react-redux. The basic use case is when you have some data that needs to be refetched anytime there is a change in some of the underlying properties.
   
 - **redux-collect-promises**  
-  https://github.com/zumb/redux-collect-promises  
+  https://github.com/elijahb/redux-collect-promises  
   Collect redux promises and wait for resolution for server side rendering
 
 - **redux-async-fetcher**  
-  https://github.com/wing-eu/redux-async-fetcher  
+  https://github.com/lucmerceron/redux-async-fetcher  
   ReduxAsyncFetcher is used to extract data fetching logic from your component lifecycle.
   
 - **redux-anity**  

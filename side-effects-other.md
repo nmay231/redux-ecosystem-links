@@ -4,7 +4,7 @@
 #### Reducer-Based Effects
 
 - **redux-loop**  
-  https://github.com/raisemarketplace/redux-loop  
+  https://github.com/redux-loop/redux-loop  
   Sequence your effects naturally and purely by returning them from your reducers.  Also returns descriptive objects, which are executed later.
 
 - **redux-side-effect-reducers**  
@@ -75,7 +75,7 @@
   redux-haiku proposes is that any side-effect can be treated just like a DOM side-effect, that is, it can be done as the result of a state change. The state change can be identified by running a diff between the new and the old states on the segment of the state that the side-effect cares about, in the meanwhile reusing established patterns such as selectors, mapStateToProps, mapDispatchToProps, etc.
   
 - **redux-effex**  
-  https://github.com/brentvatne/redux-effex  
+  https://github.com/expo/redux-effex  
   Spin off async functions to perform side effects
   
 - **redux-reactor**  
@@ -127,7 +127,7 @@
   An implementation of declarative promises effects for redux. The solution is based on inversify library.
   
 - **redux-pixies**  
-  https://github.com/Airbitz/redux-pixies  
+  https://github.com/EdgeApp/redux-pixies  
   Pixies are little processes that run in the background, monitoring your Redux store and handling asynchronous side-effects. Pixies are a lot like React components, but instead of managing the DOM, pixies manage everything else.  Pixies are state-based, rather than action-based. A pixie's job is to compare the state of the Redux store with the real world and fix anything that is out of sync. 
   
 - **redux-serial-effects**  

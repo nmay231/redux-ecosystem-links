@@ -4,7 +4,7 @@
 #### DevTools
 
 - **Redux DevTools**  
-  https://github.com/gaearon/redux-devtools  
+  https://github.com/reduxjs/redux-devtools  
   DevTools for Redux with hot reloading, action replay, and customizable UI 
   
 - **Redux DevTools Extension**  
@@ -16,7 +16,7 @@
   Use Redux DevTools remotely for React Native, hybrid, desktop and server side Redux apps.
   
 - **Reactotron**  
-  https://github.com/skellock/reactotron  
+  https://github.com/infinitered/reactotron  
   Control, monitor, and instrument your React DOM and React Native apps. From the comfort of your TTY.
   
 - **react-gui-debugger**  
@@ -60,11 +60,11 @@
 #### DevTools Monitors
 
 - **Log Monitor**  
-  https://github.com/gaearon/redux-devtools-log-monitor  
+  https://github.com/reduxjs/redux-devtools-log-monitor  
   The default monitor for Redux DevTools with a tree view
   
 - **Dock Monitor**  
-  https://github.com/gaearon/redux-devtools-dock-monitor  
+  https://github.com/reduxjs/redux-devtools-dock-monitor  
   A resizable and movable container for other monitors.
 
 - **Inspector Monitor**  
@@ -80,7 +80,7 @@
   Filterable tree view monitor for Redux DevTools.  Actions are collapsed by default but they can be expanded by clicking on the action type. Strings and regular expressions can be used to filter actions by type as well as to filter the state tree by nodes or values.
   
 - **Chart Monitor**  
-  https://github.com/romseguy/redux-devtools-chart-monitor  
+  https://github.com/reduxjs/redux-devtools-chart-monitor  
   A chart monitor for Redux DevTools.  It shows a real-time view of the store aka the current state of the app.
   
 - **Slider Monitor**  
@@ -108,7 +108,7 @@
   A custom monitor for Redux DevTools to profile a given action in Chrome DevTools
   
 - **Periscope Monitor**  
-  https://github.com/shea-hawkins/periscope  
+  https://github.com/shea-hawkins-zz/periscope  
   In-depth monitoring for Redux applications.  View actions on a timeline, group by type, and more.
   
 - **Upload-Download Monitor**  
@@ -119,7 +119,7 @@
 #### Logging
   
 - **redux-logger**  
-  https://github.com/fcomb/redux-logger  
+  https://github.com/LogRocket/redux-logger  
   Redux middleware that logs state diffs after actions are dispatched.
   
 - **redux-node-logger**  
@@ -127,7 +127,7 @@
   Just a logger middleware for redux that will write all redux actions and state changes to the node console. Entirely based on redux-logger
   
 - **redux-diff-logger**  
-  https://github.com/fcomb/redux-diff-logger  
+  https://github.com/evgenyrodionov/redux-diff-logger  
   Diff logger between states for redux
   
 - **redux-debug**  
@@ -167,7 +167,7 @@
   mole-redux is a tiny helper library that works as a middleware for redux, allowing easy state-action molejs. Underneath, it uses the report() method from mole-reporter one of the three independent packages that form the whole molejs service stack.
   
 - **redux-catch**  
-  https://github.com/sergiodxa/redux-catch  
+  https://github.com/PlatziDev/redux-catch  
   Error catcher middleware for Redux reducers and middlewares.
   
 - **redux-bug-reporter**  
@@ -195,7 +195,7 @@
   Redux middleware that wraps exceptions in actions and sends them to Bugsnag with current state
   
 - **redux-action-log**  
-  https://github.com/AgentME/redux-action-log  
+  https://github.com/Macil/redux-action-log  
   A redux store enhancer which allows you to record the redux action history and access it. It can be configured to have a maximum number of actions to keep in the history. Early actions will be removed from the history, and the redux state of the beginning of the history will be recorded.
   
 - **redux-bugsnag**  
@@ -279,7 +279,7 @@
 
 - **mutation-sentinel**  
   https://github.com/flexport/mutation-sentinel  
-  https://flexport.engineering/optimizing-react-rendering-part-2-7b2e9a9ea21f  
+  https://flexport.engineering/optimizing-react-rendering-part-2-7b2e9a9ea21f?gi=477de3a5b05f  
   A library that uses ES6 Proxies to help detect accidental mutations
   
 - **redux-pure-connect**  
@@ -348,7 +348,7 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
   Action parameter validator middleware for redux
   
 - **redux-payload-validator**  
-  https://github.com/tomoyuki-tanaka/redux-payload-validator  
+  https://github.com/t-tonchim/redux-payload-validator  
   Redux middleware for FSA payload validation.
   
 - **redux-action-validator**  
@@ -363,11 +363,11 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
   A component mixin that overlays a tooltip indicating when a component has re-rendered and why, as well as animating the component's outline.
 
 - **"WhyDidYouUpdateMixin"**  
-  http://benchling.engineering/deep-dive-react-perf-debugging/  
+  https://benchling.engineering/a-deep-dive-into-react-perf-debugging-fd2063f5a667?gi=7257a44a82ef  
   The article contains a useful props-diffing mixin that logs change information to the console.
 
 - **should-component-update-dev**  
-  https://github.com/ConciergeAuctions/should-component-update-dev  
+  https://github.com/MerlinLabs/should-component-update-dev  
   A development replacement for shouldComponentUpdate that gives you the "why?"
   
 - **why-did-you-update**  
@@ -383,12 +383,12 @@ Also see the [Mutation Detection](#mutation-detection) section just above.
   React Monocle is a developer tool for generating visual representations of your React app's component hierarchy.
   
 - **lcHOC**  
-  https://github.com/viktorbergehall/lcHOC  
+  https://github.com/vb/lcHOC  
   lcHOC is a HOC (higher order component) in React that visualize rendering and logs helpful information.  Enhance each component you want to study with lcHOC and every time that component updates, a green flash wraps the component (much like paint flashing in devtools) and debugging information is logged to the console.
   
 - **react-wastage-monitor**  
   https://github.com/MalucoMarinero/react-wastage-monitor  
-  https://blog.listium.com/introducing-react-wastage-monitor-404565d679b2  
+  https://blog.listium.com/introducing-react-wastage-monitor-404565d679b2?gi=2bb76721f35a  
   A utility that detects wasted rendering time on incorrectly developed Pure Components
   
 - **fuego**  

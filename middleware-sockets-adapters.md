@@ -16,11 +16,11 @@
   Redux middleware that dispatches an action to all connected clients
   
 - **socket.io-redux**  
-  https://github.com/sergiodxa/socket.io-redux  
+  https://github.com/PlatziDev/socket.io-redux  
   Redux middleware to emit actions to a socket.io server
   
 - **redux-ws**  
-  https://github.com/arturmuller/redux-ws  
+  https://github.com/luskhq/redux-ws  
   Redux middleware for WebSockets communication.
   
 - **redux-effects-socketio**  
@@ -80,7 +80,7 @@
   An opinionated connector between socket.io and redux.
   
 - **redux-socket.io-client**  
-  https://github.com/my0sot1s/redux-socket.io-client  
+  https://github.com/matezaky/redux-socket.io-client  
   Simple Middleware for realtime with socket.io-client 
   
 - **redux-sockjs-middleware**  
@@ -142,7 +142,7 @@
   Declarative firebase queries for redux.
 
 - **firedux**  
-  https://github.com/adjohnson916/firedux  
+  https://github.com/AndersDJohnson/firedux  
   Firedux (fiery·ducks) wraps the Firebase JavaScript API to dispatch Redux actions that optimisically & immediately read/write to an in-memory subset of your data from Firebase, then asynchronously pull & push data in the background.  Also supports some authentication methods and actions.
 
 - **refire**  
@@ -182,7 +182,7 @@
   React + Redux Wrapper for Firebase
   
 - **firebase-sync**  
-  https://github.com/tasking/firebase-sync  
+  https://github.com/firebase-toolbelt/firebase-sync  
   Bind your firebase backend to your redux state with a dead simple component based approach.
 
 - **reduxfire**  
@@ -221,7 +221,7 @@
   DDP client bindings for react-redux
   
 - **ddp-redux**  
-  https://github.com/apendua/ddp  
+  https://github.com/apendua/ddp-redux  
   ddp-redux is a brand new ddp client that will allow you to fetch resources from your ddp server in a completely declarative way. Subscriptions/ methods (queries) parameters are evaluated by selectors and all you need to do is to extract collection data from the redux store. 
   
 
@@ -244,7 +244,7 @@
   Library to manage parse objects and simplify integration with parse
   
 - **Redux Swagger Client**  
-  https://github.com/noh4ck/redux-swagger-client  
+  https://github.com/Nohac/redux-swagger-client  
   Add asynchronous Swagger api calls to Redux
   
 - **redux-cablecar**  
@@ -260,7 +260,7 @@
   Unofficial Feathers bindings for React-Redux.  React-Redux is great. Feathers is fantastic. feathers-react-redux aims to tie these two together.
   
 - **Django Redux**  
-  https://github.com/fcurella/django_redux  
+  https://github.com/channels-frontend/django_redux  
   A re-usable bridge between Django channels and Redux.
 
 - **twiliojs-redux**  

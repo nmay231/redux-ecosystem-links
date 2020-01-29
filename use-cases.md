@@ -96,7 +96,7 @@
   A package for providing react-redux based feature toggles
   
 - **react-redux-feature-flag**  
-  https://github.com/unbounce/flag  
+  https://github.com/garbles/flag  
   Feature flagging made easy for React and Redux
   
 - **react-redux-ab**  
@@ -104,7 +104,7 @@
   A simple A/B testing library that stores the active variants in a reducer for easy access accross the whole application. It is universal, as it can run on the client side, browser side or any kind of application where redux can run.
   
 - **react-redux-restriction**  
-  https://github.com/AaronBurmeister/react-redux-restriction  
+  https://github.com/hatsuo/react-redux-restriction  
   react-redux-restriction provides React components which allow redux dependent conditional rendering.
   
 - **flopflip**  
@@ -127,7 +127,7 @@
   This library provides synchronization of the document title and redux state. 
   
 - **redux-focus**  
-  https://github.com/nearmap/redux-focus  
+  https://github.com/nearmap/refocus  
   A library that tracks info on the currently focused element
   
 - **redux-mediaquery**  
@@ -167,11 +167,11 @@
   HTML5 Geolocation api for redux
   
 - **redux-breakpoint**  
-  https://github.com/bala94/redux-breakpoint  
+  https://github.com/balatvm/redux-breakpoint  
   A lightweight library to help your redux based application to be more responsive.  Make your component aware of breakpoint and device width just by connecting to store.
   
 - **redux-device-type**  
-  https://github.com/matthiasklan/redux-device-type  
+  https://github.com/mklan/redux-device-type  
   A reducer to keep track of your current device size in order to react to the changes (e.g. rendering certain components only on some device sizes).
   
 - **react-responsive-redux**  
@@ -214,7 +214,7 @@
   Simple bindings between react-intl and redux
   
 - **react-redux-i18n**  
-  https://github.com/zoover/react-redux-i18n  
+  https://github.com/artisavotins/react-redux-i18n  
   https://github.com/intpp/redux-i18n-parser  
   A binding library for redux to react-i18nify
   
@@ -306,7 +306,7 @@
   Lightweight caching for Redux (WIP)
  
 - **redux-datastore**  
-  https://github.com/roastedfrost/redux-datastore  
+  https://github.com/roastedfrost-zz/redux-datastore  
   Simple library to deal with common operations - pagination, sorting, filtering. 
   
 - **redux-filtered-pagination**  
@@ -419,7 +419,7 @@
   Higher order reducer to add undo/redo functionality to redux state containers
   
 - **Redux Undo Immutable**  
-  https://github.com/idealeric/redux-undo-immutable  
+  https://github.com/dairyisscary/redux-undo-immutable  
   A higher order reducer to add undo/redo to redux state containers using immutable js.  It is conceptually identical to redx-undo and shares almost the same API.
   
 - **redux-undoable**  
@@ -444,7 +444,7 @@
   
 - **redux-dag-history**  
   https://github.com/Microsoft/redux-dag-history  
-  https://blog.atsid.com/exploring-interaction-history-d09a52a7d186  
+  https://blog.atsid.com/exploring-interaction-history-d09a52a7d186?gi=17c6b1e85a15  
   A redux middleware that provides an alternative take on application history. Independent threads of user exploration are tracked as separate "branches" in a state DAG (Directed Acyclic Graph) inspired roughly by Git version control.
   
 - **redux-branchable**  
@@ -515,7 +515,7 @@
   Redux React Session provides an API that allows to manage sessions through the app, with authorization function for react-router and a persisted session.
   
 - **redux-cancan**  
-  https://github.com/knocknock-team/redux-cancan  
+  https://github.com/elquimista/redux-cancan  
   An authorization utility for Redux, inspired by cancancan gem for Ruby on Rails. It restricts what routes a given user is allowed to access.
   
 - **redux-implicit-oauth2**  

@@ -4,7 +4,7 @@
 #### Promises
 
 - **redux-promise**  
-  https://github.com/acdlite/redux-promise  
+  https://github.com/redux-utilities/redux-promise  
   FSA-compliant promise middleware for Redux.
   
 - **redux-simple-promise**  
@@ -16,7 +16,7 @@
   Extended replacement of redux-thunk middleware to supporting async-await functions and implement server-side rendering for React components with asynchronous state.
   
 - **redux-async**  
-  https://github.com/symbiont-io/redux-async  
+  https://github.com/nwwells/redux-async  
   RSA-compliant actions which resolve when any prop is a promise middleware for Redux.
   
 - **redux-promise-middleware**  
@@ -24,7 +24,7 @@
   Redux middleware for resolving and rejecting promises with conditional optimistic updates
   
 - **redux-deferred**  
-  https://github.com/wyvernnot/redux-deferred  
+  https://github.com/longtian/redux-deferred  
   Redux middleware for jQuery Deferred object
   
 - **redux-promises**  
@@ -64,7 +64,7 @@
   Middleware for Redux that turns promises into several dispatches of loading, success and error states, confirming to flux standard action schema.
   
 - **redux-promise-loading**  
-  https://github.com/amorphousxd/redux-promise-loading  
+  https://github.com/pavelmakeenko/redux-promise-loading  
   Redux middleware and reducer for handling redux promise loading indicator
   
 - **redux-pack**  
@@ -220,7 +220,7 @@
   Queue actions when offline and dispatch them when getting back online.  You can use the NetworkListener high order component to wrap the redux Provider and automatically dispatch the ONLINE and OFFLINE action when listening to window.on('online') and window.on('online').
   
 - **redux-q**  
-  https://github.com/ConciergeAuctions/redux-q  
+  https://github.com/MerlinLabs/redux-q  
   redux-q lets you enqueue any function in a queue that is mapped to an action type. The next time that action is dispatched each callback will be called with that action and the queue will be cleared.
   
 - **Redux Optimistic Actions**  
@@ -359,7 +359,7 @@
   Redux middleware for handling action creators that return iterators
   
 - **Redux Triple Barreled Actions**  
-  https://github.com/davidfurlong/redux-triple-barreled-actions  
+  https://github.com/davidfurlong/redux-triple-barreled  
   Redux Middleware which provides a syntax for dispatching async actions
   
 - **Redux Service**  

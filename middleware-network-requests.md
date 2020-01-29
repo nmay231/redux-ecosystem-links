@@ -7,7 +7,7 @@
   Uses either fetch or superagent to make requests.
   
 - **redux-fetch-middleware**  
-  https://github.com/LuckyZhou880808/redux-fetch-middleware  
+  https://github.com/zslucky/redux-fetch-middleware  
   A middleware for redux that help to fetch data from rest API
   
 - **redux-fetch-middleware**  
@@ -53,7 +53,7 @@
   redux middleware using axios making api calls with redux easy
   
 - **redux-small-axios-middleware**  
-  https://github.com/vaeum/redux-small-axios-middleware  
+  https://github.com/anpleenko/redux-small-axios-middleware  
   A small middleware to handle AJAX requests with Axios
 
 
@@ -84,7 +84,7 @@
   Redux api middleware for handling simultaneous asynchronous action dispatches (api calls).
   
 - **redux-cached-api**  
-  https://github.com/VerenigingCampusKabel/redux-cached-api  
+  https://github.com/VerenigingCampusKabel/redux-api  
   Redux middleware for calling and caching a (REST) API
   
 - **redux-api-middleman**  
@@ -104,7 +104,7 @@
   A simple Redux middleware for declarative data fetching - helps you REST easy
   
 - **redux-rest-api**  
-  https://github.com/restlessbit/redux-rest-api  
+  https://github.com/realplatanopapi/redux-rest-api  
   Middleware that gives you a uniform way to define API actions in Redux applications.
   
 - **redux-middleware-async**  
@@ -120,7 +120,7 @@
   A redux middleware for making calls to APIs with token-based auth, automatically requesting a new token if needed. Actions can be calls to single or multiple API endpoints.
   
 - **redux-routed-api-middleware**  
-  https://github.com/aliaksandr-master/redux-routed-api-middleware  
+  https://github.com/aliaksandr-master/multi-routing-api  
   Redux api middleware for separate your api routes, api actions, and interceptors. provide state normalization, db reducer 
   
 - **redux-callapi-middleware**  
@@ -152,7 +152,7 @@
   A middleware that helps manage API requests by handling action suffixes, session tokens, and more
   
 - **roadhog-saga**  
-  https://github.com/alakarteio/roadhog-saga  
+  https://github.com/unirakun/roadhog-saga  
   Library that is connected to redux, use to fetch api, and to dispatch saga event 
   
 - **japicam**  
@@ -164,7 +164,7 @@
   Disfetch is a library for sending HTTP requests and dispatching Redux actions accordingly.
   
 - **redux-swagger-client**  
-  https://github.com/noh4ck/redux-swagger-client  
+  https://github.com/Nohac/redux-swagger-client  
   An attempt to add asynchronous swagger api calls to redux. It works by dispatching an action that includes the field swagger that takes a function and passes the swagger client element to that function. If the swagger spec has not yet been parsed, the action will get queued.
   
 - **redux-jwt-protected-middleware**  

@@ -3,7 +3,7 @@
 
 #### General / Store
 - **redux-mock-store**  
-  https://github.com/arnaudbenard/redux-mock-store  
+  https://github.com/dmitry-zaets/redux-mock-store  
   A mock store for your testing your redux async action creators and middleware
   
 - **redux-test**  
@@ -28,7 +28,7 @@
   Write tape tests for redux blazingly fast.
   
 - **Redux-duck-test**  
-  https://github.com/sergiodxa/redux-duck-test  
+  https://github.com/PlatziDev/redux-duck-test  
   Helper functions for testing redux ducks made with redux-duck library
   
 - **redux-test-store**  
@@ -41,7 +41,7 @@
   
 - **Redux-Promise-Mock**  
   https://github.com/ericmasiello/Redux-Promise-Mock  
-  Middleware meant to be used with Redux Promise that can be used to mock remote API calls with mock data.  This middleware will automatically return mock data whenever the API promise-based request executed via redux-promise (https://github.com/acdlite/redux-promise) throws an error.
+  Middleware meant to be used with Redux Promise that can be used to mock remote API calls with mock data.  This middleware will automatically return mock data whenever the API promise-based request executed via redux-promise (https://github.com/redux-utilities/redux-promise) throws an error.
   
 - **redux-devtools-test-generator**  
   https://github.com/zalmoxisus/redux-devtools-test-generator  
@@ -84,7 +84,7 @@
   Mock the react-redux package for testing.
   
 - **mocha-redux-integration**  
-  https://github.com/tomvej/mocha-redux-integration  
+  https://github.com/morosystems/mocha-redux-integration  
   Integration testing of redux stores with mocha 
   
 - **chai-redux**  
@@ -112,7 +112,7 @@
   Makes snapshot testing of react-redux (e.g. mapStateToProps or mapDispatchToProps) glue-code easy as pie. 
   
 - **mocha-redux-integration**  
-  https://github.com/tomvej/mocha-redux-integration  
+  https://github.com/morosystems/mocha-redux-integration  
   Integration testing of redux stores with mocha.  The aim of this project is to offer a custom mocha UI to facilitate these tests. The test structure seems to be best represented by given-when-then syntax with given being initial state, when applied actions and then assertions on selector results.
   
 - **test-redux-store**  
@@ -203,11 +203,11 @@
   Utilities to make testing sagas easier
   
 - **redux-saga-chai**  
-  https://github.com/R1ZZU/redux-saga-chai  
+  https://github.com/lesnitsky/redux-saga-chai  
   redux-saga-chai extends Chai and allows you to be more verbose while testing sagas
 
 - **redux-saga-tester**  
-  https://github.com/guybenron/redux-saga-tester  
+  https://github.com/wix/redux-saga-tester  
   Full redux environment testing helper for redux-saga
 
 - **redux-saga-testing**  
@@ -235,11 +235,11 @@
   A bunch of helpers to make redux-saga testing more powerful.
 
 - **redux-saga-mock**  
-  https://github.com/digitalidentitysa/redux-saga-mock  
+  https://github.com/eidoo/redux-saga-mock  
   Testing helper for redux-saga.
   
 - **Redux Saga Test Engine**  
-  https://github.com/DNAinfo/redux-saga-test-engine  
+  https://github.com/timbuckley/redux-saga-test-engine  
   Collects the actions dispatched by your sagas for easy testing 
   
 - **redux-logic-test**  
@@ -259,7 +259,7 @@
    Better full redux environment testing helper for redux-saga (initially forked from redux-saga-tester)
    
  - **trampss-redux-saga-tester**  
-   https://github.com/Trampss/trampss-redux-saga-tester  
+   https://github.com/unirakun/k-redux-saga-tester  
    Test your sagas (redux-saga) with ease, compatible with Jest snapshots !
    
  - **jest-saga**  
@@ -287,7 +287,7 @@
   Utilities to test sagas, reducers and selectors in integration
   
 - **k-redux-saga-tester**  
-  https://github.com/alakarteio/k-redux-saga-tester  
+  https://github.com/unirakun/k-redux-saga-tester  
   Test your sagas (redux-saga) with ease, compatible with Jest snapshots!
   
 - **redux-mock-saga**  

@@ -33,7 +33,7 @@
   Mikey is a node command-line tool for generating React-Redux projects, React-Redux containers, React components, React actions, React reducers, and React helpers.
   
 - **Kea**  
-  https://github.com/mariusandra/kea  
+  https://github.com/keajs/kea  
   kea provides: a scaffolding tool with multiple generators; a modular code structure that's optimized for clarity; a guide to teach you how it all fits together
   
 - **react-redux-workbench**  
@@ -45,7 +45,7 @@
   Respectully opinionated convention-driven framework for building React applications. Built on React, Webpack, Redux, and React-Router.
 
 - **EOS-Redux**  
-  https://github.com/amattson21/eos-redux  
+  https://github.com/alexmattson/eos-redux  
   Redux CLI and Framework.  Can generate a starting project file tree, as well as individual action creators and reducers.
   
 - **Racket**  
@@ -53,11 +53,11 @@
   Racket is a yeoman generator for creating universal/isomorphic web applications, using React and Redux.
   
 - **create-redux-app**  
-  https://github.com/delvallejonatan/generator-create-redux-app  
+  https://github.com/jonidelv/generator-create-redux-app  
   Add Redux, styled-components, and CLI generation of components and containers on top of create-react-app 
   
  - **redux-boilerplate-helpers**  
-   https://github.com/alxlu/redux-boilerplate-helpers  
+   https://github.com/ArchivedRepos/redux-boilerplate-helpers  
    A commandline tool and small helper library that helps you cut down on the amount of typing you need to do while writing Redux boilerplate.  redux-boilerplate-helpers's tool parses your code into an AST (Abstract Syntax Tree) to automate adding Redux boilerplate code into your existing files. If you already have existing* action creators, constants, or a reducer in a file, it will ensure the code you want to add is put in the correct place. And if you are missing any of the files, the tool will create new ones for you.
    
  - **hmr-redux-mapper**  

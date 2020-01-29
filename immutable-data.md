@@ -58,7 +58,7 @@
 
   
 - **immer**  
-  https://github.com/mweststrate/immer  
+  https://github.com/immerjs/immer  
   A tiny package by Michel Weststrate, author of MobX, that allows you work with immutable state in a more convenient way. It is based on a copy-on-write mechanism, and uses ES6 proxies to let you write mutative code that is applied immutably.
 
 - **immutable-ops**  
@@ -86,7 +86,7 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   The motivation for this module is to have a simple utility for changing state in a React-Redux application without mutate existing state of plain JavaScript objects.
   
 - **Sprout**  
-  https://github.com/herrstucki/sprout/  
+  https://github.com/anru/sprout  
   Sprout provides a set of functions to help you work with nested data without all the headaches. Sprout never mutates the original data but returns new versions. This way, plain JavaScript objects (and arrays) can be effectively treated as if they were immutable.
   
 - **Scour**  
@@ -118,7 +118,7 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   Lightweight immutable helper that allows you to continue working with POJO (Plain Old JavaScript Object), and supports full TypeScript type checking
 
 - **sp2**  
-  https://github.com/phenyl-js/sp2
+  https://github.com/phenyl/sp2
   Immutable updater that allows you to access nested values with Typescript autocompletion.
 
 - **immutable-helpers**  
@@ -130,7 +130,7 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   Functional operations on large immutable objects 
   
 - **statesis**  
-  https://github.com/varak69/statesis  
+  https://github.com/victorkirov/statesis  
   A smart state constructor for redux states. Statesis does a deep compare/copy of 2 states and compiles a new state which keeps references to unchanged objects from the old state and mixes them with new objects which have altered in the new state.
   
 - **monolite**  
@@ -203,7 +203,7 @@ A collection of functions to perform immutable operations on plain JavaScript ob
    
 -  **blazing-edge/update**  
   https://github.com/blazing-edge-labs/update  
-  https://blog.blazingedge.io/immutable-update/  
+  https://blazingedge.io/blog/immutable-update/  
   An immutable update utility with handling for patching items, updating all items in an array, or removing some of them. 
   
 - **typescript-immutable-helper**  
@@ -247,7 +247,7 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   Immutable updates that look mutable with template strings
 
 - **immutad●t**  
-  https://github.com/Zenika/immutadot  
+  https://github.com/zenika-open-source/immutadot  
   immutad●t offers a short and meaningful syntax to apply operations on immutable structures. It allows batch modifications using an advandced path notation and grouped modifications using a functional approach, and is extensible.
 
 #### Immutable/Redux Interop
@@ -269,7 +269,7 @@ A collection of functions to perform immutable operations on plain JavaScript ob
   Utilities for using Immutable with Redux
   
 - **immutable-reducers**  
-  https://github.com/phuu/immutable-reducers  
+  https://github.com/tgvashworth/immutable-reducers  
   Create reducers for immutable data structures.
 
 - **redux-seamless-reducers**  

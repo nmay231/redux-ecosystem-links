@@ -1,7 +1,7 @@
 ### Side Effects - Functions
 
 - **redux-thunk**  
-  https://github.com/gaearon/redux-thunk  
+  https://github.com/reduxjs/redux-thunk  
   The simplest possible side effects approach: dispatch functions instead of objects, which then get access to `dispatch` and `getState`.  (Variations on the concept listed on the [Middleware](middleware.md) page.)
   
 - **redux-action-side-effects**  
@@ -13,7 +13,7 @@
   Thunk-like handling with additions.
   
 - **redux-thunktions**  
-  https://github.com/ohjames/redux-thunktions  
+  https://github.com/insidewhy/redux-thunktions  
   An FSA compatible redux thunk middleware ideal for use with redux-actions and/or redux-promise-middleware.
   
 - **redux-effects**  
@@ -128,7 +128,7 @@
   Declarative data fetching for redux  
   
 - **redux-effects-fetch-fixture**  
-  https://github.com/team-boris/redux-effects-fetch-fixture  
+  https://github.com/gutefrage/redux-effects-fetch-fixture  
   An extension for redux-effects-fetch, which lets you define fixtures for your FETCH actions. Now you are able to develope completely without any REST backend.
   
 - **redux-effects-credentials**  

@@ -9,7 +9,7 @@
 #### Action Creation Utilities
 
 - **redux-actions**  
-  https://github.com/acdlite/redux-actions  
+  https://github.com/redux-utilities/redux-actions  
   Flux Standard Action utilities for Redux.
 
 - **redux-namespaced-actions**  
@@ -45,7 +45,7 @@
   Create actions based on objects with functions
   
 - **async-redux-actions**  
-  https://github.com/spalger/async-redux-actions  
+  https://github.com/spalger/redux-async-actions  
   A simple wrapper around async redux actions.
   
 - **Faction**  
@@ -165,7 +165,7 @@
   Tiny utility to generated namespaced action constants
   
 - **action-creators**  
-  https://github.com/lsentkiewicz/action-creators  
+  https://github.com/BetterCallSky/action-creators  
   Action creators utilities for Redux.  Includes: parameter validation using joi, debug created actions using debug, no need to define constants, no duplicated namespaces, no duplicated action names.
   
 - **to-redux-type**  
@@ -209,7 +209,7 @@
   Assorted helper utilities for redux-actions.
   
 - **fsa-meta-extender**  
-  https://github.com/tomoyuki-tanaka/fsa-meta-extender  
+  https://github.com/t-tonchim/fsa-meta-extender  
   A utility for Flux Standard Actions that adds meta fields to actions.
   
 - **redux-feline-actions**  

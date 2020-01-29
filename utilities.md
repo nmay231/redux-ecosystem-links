@@ -12,7 +12,7 @@
   An efficient memoizer for functions that only receive immutable arguments. Ideal for Redux and similar environments.  Dependency free!
   
 - **normalizr**  
-  https://github.com/gaearon/normalizr  
+  https://github.com/paularmstrong/normalizr  
   Normalizes deeply nested JSON API responses according to a schema, producing flatter and unduplicated state.
   
 - **denormalizr**  
@@ -79,7 +79,7 @@
 #### Selectors
 
 - **reselect**  
-  https://github.com/reactjs/reselect  
+  https://github.com/reduxjs/reselect  
   Simple “selector” library for Redux inspired by getters in NuclearJS.  Can compute derived data efficiently using memoization and composition.
   
 - **reselect-change-memoize**  
@@ -99,7 +99,7 @@
   Selectors for mapping over collections
   
 - **reduxql**  
-  https://github.com/AppHubPlatform/reduxql  
+  https://github.com/LogRocket/logrocket  
   Proof of concept for using GraphQL to select data from a Redux store.
   
 - **react-graphql-redux**  
@@ -143,7 +143,7 @@
   Shorthand for react-redux’s mapStateToProps. Need some props? Just select 'em!
   
 - **redux-getters**  
-  https://github.com/fakundo/redux-getters  
+  https://github.com/fakundo/react-redux-getters  
   Provides an additional layer of getters between the store and components. The getter returns data from the store if they are there, otherwise it returns stub and invokes fetch action.
   
 - **lenscrafter**  

@@ -3,7 +3,7 @@
 #### React
 
 - **React-Redux**  
-  https://github.com/reactjs/react-redux  
+  https://github.com/reduxjs/react-redux  
   The official React bindings for Redux, maintained by the Redux team
 
 #### Angular
@@ -138,7 +138,7 @@
   A tiny utility to stringify a Redux store's contents and write it to a div
   
 - **redux-helpers**  
-  https://github.com/PolymerLabs/redux-helpers  
+  https://github.com/Polymer/pwa-helpers  
   Small utilities from the Polymer project to help integrate Redux into a web components app
   
 
@@ -205,7 +205,7 @@
   Simple redux bindings for marko, inspired by react-redux
   
 - **aurelia-redux-connect**  
-  https://github.com/istrau2/aurelia-redux-connect  
+  https://github.com/stellarport/aurelia-redux-connect  
   Provides dependency injection and decorators for using Redux with Aurelia.
   
 - **riot-redux-router**  

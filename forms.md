@@ -2,7 +2,7 @@
 
 
 - **redux-form**  
-  https://github.com/erikras/redux-form  
+  https://github.com/redux-form/redux-form  
   A full-featured library to enable a React HTML form to store its state in Redux.
 
 - **React Redux Form**  
@@ -30,7 +30,7 @@
   An alternate forms framework for Redux+React.  Validate on blur, not change.  Validate individual fields, not the whole form
   
 - **redux-uniform**  
-  https://github.com/babotech/redux-uniform  
+  https://github.com/galkinrost/redux-uniform  
   High order component for working with forms with redux
 
 - **revalidate**  
@@ -50,7 +50,7 @@
   A react form binding that adapts to your code, not the other way around.  At the end of the day, react-formagic is just a HoC wrapper that translates props given to it into a set of enhanced props that'll make it easy to work with forms.
   
 - **React Redux Local Form**  
-  https://github.com/jschr/react-redux-form-provider  
+  https://github.com/jschr/form-provider  
   React components for building forms with a local Redux store for managing state.
   
 - **simple-redux-form**  
@@ -70,15 +70,15 @@
   React Redux form builder with great UX validations
   
 - **react-redux-form-provider**  
-  https://github.com/jschr/react-redux-form-provider  
+  https://github.com/jschr/form-provider  
   A set of React helpers to help with building forms. State is managed with a Redux store that is local to your component.
   
 - **focus-graph**  
-  https://github.com/get-focus/focus-graph  
+  https://github.com/get-focus/deprecated-focus-graph  
   Tools based on Redux to easily integrate forms, validate and manipulate data
   
 - **redux-pure-form**  
-  https://github.com/max-mykhailenko/redux-pure-form  
+  https://github.com/memCrab/redux-pure-form  
   Redux actions for good performance and integration with your reducers
   
 - **redux-forms**  
@@ -102,7 +102,7 @@
   Complex forms validation using reselect
   
 - **simpler-redux-form**  
-  https://github.com/catamphetamine/simpler-redux-form  
+  https://github.com/catamphetamine/easy-react-form  
   Just like redux-form but much simpler - aimed to be a minimal sane set of features compared to redux-form.
   
 - **formred**  
@@ -122,7 +122,7 @@
   A small library for easily making simple forms with a standard React/Redux setup. Its primary goal is to reduce the amount of boilerplate written for standard form handling without adding any magic or library lock-in.
   
 - **react-controlled-form**  
-  https://github.com/rofrischmann/react-controlled-form  
+  https://github.com/robinweser/react-controlled-form  
   react-controlled-form aims to simplify form management with React and Redux.  It ships functional APIs to create your very own form fields and is built with flexibility and customization in mind.
   
 - **redux-forms**  
@@ -146,7 +146,7 @@
   Actions, selectors, and reducers for helping manage form input validation.
   
 - **redux-duck-form**  
-  https://github.com/ivanwolf15/redux-duck-form  
+  https://github.com/ivanwolf/redux-duck-form  
   A redux duck to manage your form state in the store.
   
   
@@ -173,7 +173,7 @@
   An HOC for computing dynamic props from values inside an existing redux-form component.
   
 - **redux-schema-form**  
-  https://github.com/buhichan/redux-schema-form  
+  https://github.com/buhichan/rehooker-schema-form  
   A json configured component on top of redux-form, so yuo don't have to write a separate component for every form - just change the "schema" prop.
   
 - **redux-form-validate-rules**  

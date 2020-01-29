@@ -14,7 +14,7 @@
   Redux toolset for keeping all the side effects inside your reducers while maintaining their purity, using generators.
   
 - **redux-yield-effect**  
-  https://github.com/wzrdzl/redux-yield-effect  
+  https://github.com/vovaguguiev/redux-yield-effect  
   Declarative side effects for redux with generators
   
 - **Redux Rungen**  
@@ -38,11 +38,11 @@
   Redux-typed-saga is an alternative, well-typed take on the awesome redux-saga. The inspiration for typing side effects came from Redux Ship. However, Redux Ship has a totally different paradigm.  This experimental project aims to rethink redux-saga with types as first-class citizens.
   
 - **corrie**  
-  https://github.com/alex-shnayder/corrie  
+  https://github.com/axtgr/corrie  
   Embrace the power of coroutines to restrain side effects 
   
 - **edge-effects**  
-  https://github.com/eiriklv/edge-effects  
+  https://github.com/eiriklv/interprit  
   Pluggable runtime effects engine (think redux-saga, except entirely pluggable) 
   
 - **redux-fibers**  
@@ -93,7 +93,7 @@
   Redux Saga Process (RSP) introduces an opinionated pattern for building modular, clean, and powerful redux-sagas by running them within ES6 classes and providing them with an encapsulated, simple, and powerful API. 
   
 - **redux-saga-kit**  
-  https://github.com/wix-private/redux-saga-kit  
+  https://github.com/wix-incubator/redux-saga-kit  
   Utilities to help create and manage sagas.
   
 - **redux-saga-watch-actions**  

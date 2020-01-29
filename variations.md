@@ -83,15 +83,15 @@
   Toolkit for building redux/react applications.  Easy to understand objects instead of crazy functional composition. Bundle groups of middleware, enhancers, and reducers together as "plugins". Dead simple Component API - use ES6 classes, bring back sane behavior, bind component functions scope to class (like old react), never write mapDispatchToProps or mapStateToProps.
   
 - **Kea**  
-  https://github.com/mariusandra/kea-logic  
+  https://github.com/keajs/kea  
   kea-logic lets you create logic stores, and access their contents from React components as props.  Logic stores consist of 1) actions, 2) reducers, 3) selectors and 4) optionally sagas.  Logic stores augment your components, are stored in redux, and are connected via ES6 imports.
   
 - **redux-signals**  
-  https://github.com/cerebral/redux-signals  
+  https://github.com/cerebral-legacy/redux-action-tree  
   The Cerebral signals running on Redux
   
 - **redux-observe-store-path**  
-  https://github.com/d6u/redux-observe-store-path  
+  https://github.com/d6u/redux-react-observable  
   Efficient and descriptive Redux React binding.  Unlike connect in react-redux, redux-observe-store-path will update tree leaf component directly, rather than passing down props at each level. This way we can skip middle level components and directly update deeply nested components.
   
 - **Redux Action Thunk**  
@@ -119,7 +119,7 @@
   A minimal way of providing redux state to react components that doesn't use context
   
 - **redux-plus**  
-  https://github.com/ashtonwar/redux-plus  
+  https://github.com/ashtonsix/redux-plus  
   The core of Redux is simple. But it comes with a big ecosystem, middleware, action creators, selectors and other things attached that slow down development - a single change in specs shouldn't require changes in 5+ locations to implement. redux-plus makes developers more productive by finding one place for all state-related code: the reducer.
   
 - **Conventional Redux**  
@@ -164,7 +164,7 @@
   Simple utility to faciliate mapping and binding action creators / states to classes.  Reduce the boilerplate of "mapStateToProps" and "mapDispatchToProps" !
   
 - **Jumpsuit**  
-  https://github.com/jumpsuit/jumpsuit  
+  https://github.com/jsonmaur/jumpsuit  
   https://medium.com/@tannerlinsley/jumpsuit-react-redux-made-simple-e3186ba1b077  
   Jumpsuit is a powerful and extremely efficient Front-end framework & CLI. It is the fastest way to write scalable react/redux apps with the least overhead.  No boilerplate; Dedicated build system; Scaffolding tools; Minimal API; Simple and scalable state management based on Redux.
   
@@ -235,7 +235,7 @@
   A library for defining "branches" - local stores whose state is merged on top of the parent.  This allows each component to have its own Redux store while still being able to interact with the parent store.
   
 - **redux-with-selectors**  
-  https://github.com/guillaumearm/redux-with-selectors  
+  https://github.com/guillaumearm/redux-global-selectors  
   A redux store enhancer for adding selectors inside the store.  Provide a withSelectors function that take a schema of your selectors, a store and return a new enhanced store.  This will allow you to centralize all your selectors in the redux store, and call them by using getState()
   
 - **Petiole**  
@@ -271,7 +271,7 @@
   Simple wrapper around react-redux. It allows to use different nested Providers by specifying a custom store name.
   
 - **react-redux-model**  
-  https://github.com/jhudson8/react-redux-model  
+  https://github.com/jhudson8/restful-redux  
   Simple to use XHR fetching and model-oriented utility functions.  Most applications have common and consistent needs. Load data using XHR and know the fetch status so it can be represented with a loading indicator. This lib provides action creators, reducers and React component wrappers that work with each other to simplify and DRY up your code.
   
 - **Classy-Redux**  
@@ -323,7 +323,7 @@
   A redux store enhancer adding selectors inside the store.
   
 - **react-redux-connect-helpers**  
-  https://github.com/rongierlach/react-redux-connect-helpers  
+  https://github.com/youfoundron/react-redux-connect-helpers  
   A helpful set of functions for connecting redux state to react components.
   
 - **react-redux-connect**  
@@ -396,7 +396,7 @@
   Simple redux container for react component
   
 - **react-redux-reliever**  
-  https://github.com/PhilipGarnero/react-redux-reliever  
+  https://github.com/RealmTeam/react-redux-reliever  
   A simple package that aims to relieve you from the pain of opening multiple different files and write a lot of boring code each time you want to add a small feature when you're using react and redux.
   
 - **teide**  
@@ -408,7 +408,7 @@
   Static initialization for Redux. This allows you to define your actions and state in the same static way that you define `propTypes` and `defaultProps`. 
   
 - **rxjs-connect**  
-  https://github.com/redneckz/rxjs-connect  
+  https://github.com/redneckz/react-redux-rxjs  
   React/Redux are going reactive with RxJS by means of this small library 
   
 - **novux**  
@@ -432,7 +432,7 @@
   Redux Action Creator Binder - an application dispatcher service/helper for Redux infrastructure.
   
 - **react-redux-collect**  
-  https://github.com/rongierlach/react-redux-collect  
+  https://github.com/youfoundron/react-redux-collect  
   Helpful function for connecting redux state and actions to React components. This function implements the same core functionality as react-redux-connect-helper's connectStateValue, but by building up mapStateToProps and mapDispatchToProps arguments to be passed to a single connect call.
   
 - **redux-atomic-action**  
@@ -505,7 +505,7 @@
   Redux abstraction for state management in React 
   
 - **redux-state-connect**  
-  https://github.com/NikolayBorisov/redux-state-connect  
+  https://github.com/NikolayBorisov/react-attach  
   Help to connect to native React Component State
   
 - **react-redux-models**  
@@ -529,7 +529,7 @@
   A simplistic alternate approach to https://github.com/procore/redux-modules.
   
 - **disprux**  
-  https://github.com/xaviercobain88/disprux  
+  https://github.com/xavier-ramirez/disprux  
   Command/Event Proxy for Redux 
   
 - **duxen**  
@@ -561,7 +561,7 @@
   react-redux is a remarkable piece of battle-tested engineering with a work-of-art API. This... is not that.  This is a so-simple-it's-almost-dumb connector for redux stores which uses MobX to hook stuff together.
   
 - **redux-shared-store**  
-  https://github.com/zachary-sierakowski/redux-shared-store  
+  https://github.com/zacharysierakowski/redux-shared-store  
   A store setup wrapper that includes the ability to dynamically add middleware and reducers.
   
 - **redux-event-stream**  
@@ -657,7 +657,7 @@
   Powerful redux wrapper to make handling redux actions and reducers a breeze! 
   
 - **redux-wrapper-extended**  
-  https://github.com/anjarpw/redux-wrapper-extended  
+  https://github.com/anjarpw88/redux-wrapper-extended  
   Shortcuts for Redux.  Provides classes to wrap reducers and stores.
   
 - **redux-channels**  
@@ -733,7 +733,7 @@
   Based on the redux, redux-saga, and react-redux packages, McCree provides an easy way to organize state, reducer and effect as Model .
   
 - **react-redux-procedures**  
-  https://github.com/remhume/react-redux-procedures  
+  https://github.com/joblift/react-redux-procedures  
   A wrapper for react-redux's connect to allow execution of multiple actions in a single procedure 
   
 - **redux-easy**  
@@ -795,7 +795,7 @@
   A proxy-based state memoization library, with small wrappers for `connect` that encapsulate using it for your `mapState` functions
   
 - **redux-context-provider**  
-  https://github.com/jamrizzi/redux-context-provider  
+  https://github.com/codejamninja/redux-context-provider  
   Inject redux into react context 
   
 - **coredux**  
@@ -827,11 +827,11 @@
   Repatch is just a simplified Redux, that let you create actions more briefly by dispatching reducers directly.
   
 - **redux-zero**  
-  https://github.com/concretesolutions/redux-zero  
+  https://github.com/redux-zero/redux-zero  
   Redux without reducers
   
 - **babydux**  
-  https://github.com/bcherny/babydux  
+  https://github.com/bcherny/undux  
   A paper-thin, 100% typesafe Redux for babies 
   
 - **stent**  

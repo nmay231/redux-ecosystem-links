@@ -49,7 +49,7 @@
   Small program to store your react redux store or stores in local storage or session storage
   
 - **redux-state-archiver**  
-  https://github.com/schwers/redux-state-archiver  
+  https://github.com/schwers-zz/redux-state-archiver  
   A collection of React components for serializing your redux state.  
   
 - **redux-async-initial-state**  
@@ -97,7 +97,7 @@
   Redux React Session provides an API that allows to manage sessions through the app, with authorization function for react-router and a persisted session.
   
 - **Redux Phoenix**  
-  https://github.com/brainhub-adam/redux-phoenix  
+  https://github.com/adam-golab/redux-phoenix  
   Restore redux state from previous sessions like a phoenix from ashes.
   
 - **session-store**  
@@ -165,7 +165,7 @@
   A command registry and redux-based aggregate store for a PouchDB-based event stream. 
   
 - **redux-persistable**  
-  https://github.com/actra-development-oss/redux-persistable  
+  https://github.com/vokeit-oss/redux-persistable  
   State persistance for redux stores supporting immutable.js, lazy reducers, versioned states, migrations and merged storage
   
 - **persist-reducer**  

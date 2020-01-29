@@ -89,7 +89,7 @@
   Redux Router Kit is a routing solution for React that leverages Redux to store routing and transition states and enable powerful middleware and connect-powered components.
   
 - **redux-bike-router**  
-  https://github.com/caesarsol/redux-bike-router  
+  https://github.com/accurat/redux-bike-router  
   A very tiny router implementation for Redux, reactive to state changes. As simple as a :bike: .
   
 - **Redux Unity Router**  

@@ -3,7 +3,7 @@
 #### Assorted Components
   
 - **redux-infinite-scroll**  
-  https://github.com/RealScout/redux-infinite-scroll  
+  https://github.com/dcurletti/redux-infinite-scroll  
   A stateless React infinite scroll component meant for usage within Redux.
   
 - **redux-validations**  
@@ -19,8 +19,8 @@
   Enable ReactTransitionGroup lifecycles on redux 'connected' components
 
 - **react-redux-idle-monitor**  
-  https://github.com/cchamberlain/redux-idle-monitor  
-  https://github.com/cchamberlain/react-redux-idle-monitor  
+  https://github.com/noderaider/redux-idle-monitor  
+  https://github.com/noderaider/react-redux-idle-monitor  
   Works in tandem with redux-idle-monitor to connect information about a users activity / idle state into your React components.
   
 - **React Redux Loading Bar**  
@@ -76,7 +76,7 @@
   Loading control with Redux
   
 - **react-redux-theme-provider**  
-  https://github.com/jschr/react-redux-theme-provider  
+  https://github.com/jschr/theme-provider  
   React helpers for theming components. Works great with inline styles or any css-in-js library.
   
 - **react-redux-loadmask**  
@@ -112,16 +112,12 @@
   A stack-based breadcrumb component for react, react-redux, and react-router v3 
   
 - **react-redux-transition-manager**  
-  https://github.com/chuch0805/react-redux-transition-manager  
+  https://github.com/mrk-9/react-redux-transition-manager  
   Higher order component to enable loading states between route transitions and fetch data for the new route
   
 - **react-block-ui**   
   https://github.com/Availity/react-block-ui  
   This library contains easy to use components to prevent the user from interacting with the user interface based on some conditions.  There is also a separate component which works with redux to help block and unblock automatically based on redux action types. See the ReduxBlockUi component for more details.
-  
-- **redux-wizard-form**  
-  https://github.com/frankPairs/redux-wizard-form  
-  A Redux-connected wizard form that helps manage steps and transitions.
   
 - **redux-list-builder**  
   https://github.com/kierandenshi/redux-list-builder  
@@ -198,7 +194,7 @@
   Barebones modal framework implemented in react with redux.  You feed it a mapping of ids to React components, and when an open action is dispatched, it will display only that component.
   
 - **react-redux-modal-provider**  
-  https://github.com/myaskevich/react-redux-modal-provider  
+  https://github.com/mayask/react-redux-modal-provider  
   react-redux-modal-provider controls the state of your React modal components using Redux.
   
 - **redux-modal-container**  
@@ -214,7 +210,7 @@
   A React modal popup using Redux 
   
 - **react-redux-modal-flex**  
-  https://github.com/tronghiep92/react-redux-modal-flex  
+  https://github.com/nghiepit/react-redux-modal-flex  
   Accessible modal dialog component for React Redux, Easy to install and use with Redux.
   
 - **redux-modal**  
@@ -282,7 +278,7 @@
   A Higher Order Component using react-redux for creating lists with filters, sotring, paginatinon, endless scroll etc.
   
 - **React Redux Feed**  
-  https://github.com/airwoot/react-redux-feed  
+  https://github.com/freshdesk/react-redux-feed  
   An higher order component to create and maintain react-redux feeds from any data source 
   
 - **redux-listview**  
@@ -341,7 +337,7 @@
   A Toast/Notification Library that integrates seamlessly with React and Redux.
   
 - **react-redux-notifications**  
-  https://github.com/nicmesan/react-redux-notifications  
+  https://github.com/nicmesan/react-redux-notification  
   The simplest way to implement a notiffication system in your React-Redux app 
   
 - **react-notification-system-redux**  
@@ -353,11 +349,11 @@
   SweetAlert with Redux-style actions, reducers API
   
 - **redux-notice**  
-  https://github.com/navjobs/redux-notice  
+  https://github.com/kimmelsg/cj-redux-notice  
   Display iOS style notices in your redux apps 
   
 - **re-notifier**  
-  https://github.com/njnest/re-notifier  
+  https://github.com/nesterman/re-notifier  
   Redux notifier with using standard web HTML5 API for browser notification 
   
 - **redux-flash-messages**  
@@ -381,7 +377,7 @@
   Prebuilt common logic flow for popup, notification and spinner. Easy to integrate to your project based on react redux + redux-thunk. Compatible with react-native and react-vr.
   
 - **redux-popper**  
-  https://github.com/bitstrider/redux-popper  
+  https://github.com/json2d/redux-popper  
   Redux state management for popup components
   
 - **React Redux Popup**  

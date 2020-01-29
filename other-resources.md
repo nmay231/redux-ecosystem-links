@@ -4,7 +4,7 @@
 #### Redux Links
 
 - **Redux Docs: Ecosystem**  
-  https://redux.js.org/introduction/ecosystem  
+  https://redux.js.org/introduction/ecosystem/  
   A vetted selection of useful links and libraries
 
 - **Awesome Redux**  
@@ -18,7 +18,7 @@
 #### Community-Defined Standards
 
 - **Flux Standard Actions**  
-  https://github.com/acdlite/flux-standard-action  
+  https://github.com/redux-utilities/flux-standard-action  
   A human-friendly standard for Flux action objects. 
   
 - **Redux Standard Actions**  

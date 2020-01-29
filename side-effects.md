@@ -5,7 +5,7 @@ For comparisons between side effect approaches, see [What is the right way to do
 #### Widely Used Tools
 
 - **redux-thunk**  
-  https://github.com/gaearon/redux-thunk  
+  https://github.com/reduxjs/redux-thunk  
   The simplest possible side effects approach: dispatch functions instead of objects, which then get access to `dispatch` and `getState`.  (Variations on the concept listed on the [Middleware](middleware.md) page.)
   
 - **redux-saga**  
@@ -13,7 +13,7 @@ For comparisons between side effect approaches, see [What is the right way to do
   Generator-based side effects approach.  Create "sagas", which act like background threads or daemons that can listen for actions and dispatch objects describing side effects.
   
 - **redux-loop**  
-  https://github.com/raisemarketplace/redux-loop  
+  https://github.com/redux-loop/redux-loop  
   Sequence your effects naturally and purely by returning them from your reducers.  Also returns descriptive objects, which are executed later.
   
 - **redux-observable**  

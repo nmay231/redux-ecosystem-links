@@ -11,7 +11,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   
 - **Project Mini-Mek**  
   https://github.com/markerikson/project-minimek  
-  A sample app to demonstrate various useful Redux techniques, accompanying the "Practical Redux" blog series at http://blog.isquaredsoftware.com/series/practical-redux
+  A sample app to demonstrate various useful Redux techniques, accompanying the "Practical Redux" blog series at https://blog.isquaredsoftware.com/series/practical-redux/
 
 - **Redux Saga Persistence Example**  
   https://github.com/jportela/redux-saga-persistence  
@@ -54,7 +54,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   Another React/Redux implementation of the RealWorld example, demonstrating a modular/feature-based structure
   
 - **ReForum**  
-  https://github.com/shoumma/ReForum  
+  https://github.com/proshoumma/ReForum  
   A forum application. Built with React, Redux, Express and MongoDB
   
 - **react-redux-complete-example**  
@@ -62,7 +62,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   An example project based on the "re-ducks" folder structure proposal
   
 - **react-redux-yelp-clone**  
-  https://github.com/mohamed-ismat/react-redux-yelp-clone  
+  https://github.com/moismat/react-redux-yelp-clone  
   An adaptation of the "Yelp Clone" app by FullStackReact.  It extends the original by using Redux and Redux Saga instead of local state, as well as React Router v4, styled-components, and other modern standards.  Based on the React-Boilerplate starter kit.
   
 - **hacker-news-resolve**  
@@ -117,7 +117,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   An experimental browser prototype, investigating new ideas and interactions.
   
 - **Guild Wars 2 Armory**  
-  https://github.com/madou/armory-react  
+  https://github.com/madou/armory-app  
   Allows GW2 players to share account, character, and guild information.
 
 - **Shifted Maps**  
@@ -137,7 +137,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   A new user experience and UI for Jenkins.  The "Dashboard" and "Web" pieces are built on React and Redux.
 
 - **Neos CMS UI rewrite**  
-  https://github.com/PackageFactory/PackageFactory.Guevara  
+  https://github.com/neos/neos-ui  
   New user interface for Neos CMS built with React and Redux. This is an ongoing project, and it is open to new contributors.
 
 - **CarteJaune**  
@@ -145,7 +145,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   A React Native/Redux (+Saga) application to keep track of your vaccinations
 
 - **HyperTerm**  
-  https://github.com/zeit/hyperterm  
+  https://github.com/zeit/hyper  
   A beautiful and extensible experience for command-line interface users, built on open web standards.
   
 - **Phoenix Trello**  
@@ -177,7 +177,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   A Web Audio experiment, featuring a keyboard-controlled synthesizer and a mouse-controlled X/Y pad (eg. kaoss pad). Built with React and Redux.
   
 - **Functional Asteroids**  
-  https://github.com/philpee2/Functional-Asteroids  
+  https://github.com/pnachum/Functional-Asteroids  
   An Asteroids clone built with functional programming, React, and Redux
   
 - **Rubix**  
@@ -205,7 +205,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   A platform for online communities. Built with React/Redux/Elixir. Real world usage of redux-saga, redux-logic, react-router, react-router-redux, redux-act, and redux-persist.
   
 - **Ory Editor**  
-  https://github.com/ory-am/editor  
+  https://github.com/react-page/react-page  
   A digital content editor with a plugin architecture, built with React and Redux.
   
 - **SoundMoose**  
@@ -221,7 +221,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   A mono repo that contains the latest and the hottest frameworks with a strong focus on clean code, testing, software architecture/design and devops.  The Trello clone client is written using React + Redux.
   
 - **Gitter Mobile**  
-  https://github.com/JSSolutions/GitterMobile  
+  https://github.com/apiko-dev/GitterMobile  
   An unofficial Gitter.im client for iOS and Android, built with React Native and Redux
   
 - **Vataxia**  
@@ -237,8 +237,8 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   A visual, block-based, static website creator
   
 - **Winamp2-js**  
-  https://jordaneldredge.com/projects/winamp2-js/  
-  https://github.com/captbaritone/winamp2-js  
+  https://webamp.org  
+  https://github.com/captbaritone/webamp  
   An in-browser recreation of Winamp2, built with React and Redux. Actually plays MP3s, and lets you load in local MP3 files.
   
 - **pandemic**  
@@ -254,11 +254,11 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   A simple and delightful way to track and manage TV shows
   
 - **tycho2**  
-  https://github.com/jshor/tycho2  
+  https://github.com/jshor/tycho  
   A real-time, WebGL-based, 3D visualization of our Solar System.  Built with React, Redux, THREE.js, and the react-three-renderer.
   
  - **DM Tools**  
-   https://github.com/fersot100/DM_Tools  
+   https://github.com/jerazost/DM_Tools  
    A cross-platform electron application that runs as a window locally on your machine and helps you the Dungeon Master, manage your role playing sessions by removing a lot of the encumberments that come with pen traditional pen and paper approaches.
    
 - **Joplin**  
@@ -266,7 +266,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   A note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. 
   
 - **boardgame.io**  
-  https://github.com/google/boardgame.io  
+  https://github.com/nicolodavis/boardgame.io  
   A toolkit for building server-synchronized turn-based multiplayer games
   
 - **axis-and-allies**  
@@ -327,7 +327,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   A giant list of apps that depend on React, generated using Google BigQuery searches of Github data.  A number of them use Redux.
   
 - **Real World React Apps**  
-  https://github.com/jeromedalbert/real-world-react  
+  https://github.com/jeromedalbert/real-world-react-apps  
   A repo that rounds up a variety of real-world React apps as git submodules, so you can learn from the codebases:
 
 
@@ -338,7 +338,7 @@ Note: This is not a comprehensive list of all projects using Redux, just a selec
   Explores the real world experiences of using Redux everyday within a rapidly scaling team and product.
   
 - **KarmaCRM: Launching an Enterprise React & Redux App – Part 1**  
-  http://jpnarowski.com/enterprise-react-redux-part-1/  
+  https://jpnarowski.com/enterprise-react-redux-part-1/  
   A combination tutorial and lessons learned series.
   
 - **WaveHQ**  

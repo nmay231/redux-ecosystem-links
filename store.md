@@ -114,7 +114,7 @@
   Remote redux eliminates the need for complex server-side apis and api bindings by combining the redux state machine on the client with the server.
   
 - **redux-state-channel**  
-  https://github.com/piotr-cz/redux-state-channel  
+  https://github.com/piotr-cz/redux-broadcast-middleware  
   Lightweight Redux middleware to sync state across tabs with same origin using BroadcastChannel.
   
 
@@ -149,7 +149,7 @@
   A higher order component decorator to read from a Redux store without subscribing to all its changes
   
 - **pull-redux**  
-  https://github.com/ahdinosaur/pull-redux  
+  https://github.com/pull-stream/pull-redux  
   use redux as a through pull stream
 
 - **redux-on-state-change**  
@@ -315,7 +315,7 @@
   Allows you to use Redux for managing the state of your WebExtension.
   
 - **react-chrome-redux**  
-  https://github.com/tshaddix/react-chrome-redux  
+  https://github.com/tshaddix/webext-redux  
   A set of utilities for building Redux applications in Google Chrome extensions.
   
 - **electron-redux**  
@@ -355,7 +355,7 @@
   Experimentation to share redux state between ReactNative and WebView inside an app 
   
 - **redux-ext**  
-  https://github.com/Anissoft/redux-ext  
+  https://github.com/Anissoft/redux.ext  
   Allows use of a Redux store across the WebExtensions API.
   
   

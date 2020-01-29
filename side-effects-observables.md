@@ -29,7 +29,7 @@
   Use RxJS 5 to compose side effect streams.  When composing your module's side effects, you have access to all state streams, which allows you to react to an independent module's state changes and produce side effects from it.
   
 - **redux-flourine**  
-  https://github.com/philpl/redux-fluorine  
+  https://github.com/kitten/redux-fluorine  
   Redux Fluorine is an enhancer to transform Observables truly into a first-class citizen in Redux. It enables you to directly dispatch observables containing actions, which is called an "agenda".
   
 - **redux-most**  
@@ -37,7 +37,7 @@
   Most.js based middleware for Redux.  Handle async actions with monadic streams & reactive programming.
   
 - **redux-cycle-middleware**  
-  https://github.com/lmatteis/redux-cycle-middleware  
+  https://github.com/cyclejs-community/redux-cycles  
   Handle redux async actions using Cycle.js. 
   
 - **redux-cycles**  

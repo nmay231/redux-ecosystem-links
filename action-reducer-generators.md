@@ -32,7 +32,7 @@
   Dead simple redux helper for actions and reducers
   
 - **actionize**  
-  https://github.com/aol/actionize  
+  https://github.com/aolarchive/actionize  
   Actionize helps you build Redux reducers without having to write large switch statements to handle actions or create action factories to call them. Actionize maintains a set of reducer names and ensures they are unique; this ensures all actions have unique names for dispatching.
   
 - **rehash**  
@@ -40,7 +40,7 @@
   A set of utilities to generate an initial state, a reducer, and an action creator tree for use with redux.
   
 - **redux-utils**  
-  https://github.com/mindfront/redux-utils  
+  https://github.com/jcoreio/redux-utils  
   Functions for creating and composing reducers and middleware efficiently
   
 - **redux-code-generator**  
@@ -48,7 +48,7 @@
   Pass a yaml file and the generator spits out action, reducer, and test files. Tests are written for Mocha.
   
 - **reduxsauce**  
-  https://github.com/skellock/reduxsauce  
+  https://github.com/jkeam/reduxsauce  
   Provides a few tools for working with Redux-based codebases.    
   
 - **Redux Factory**  
@@ -129,7 +129,7 @@
   Utility functions for creating actions types, creating FSA-compatible reducers, and globalizing selectors.
 
 - **redux-candy**  
-  https://github.com/inuscript/redux-candy  
+  https://github.com/terrierscript/redux-candy  
   Generate updeep based reducer and compatible action creator.
 
 - **redux-act-reducer**  
@@ -193,7 +193,7 @@
   A convenience interface for Redux, to remove boilerplate and provide sensible asynchronous action handling.
   
 - **redux-helpers**  
-  https://github.com/sirqiao/redux-helpers  
+  https://github.com/nodew/redux-helpers  
   Utilities to create action types, action creators, and reducers for both sync and async actions
   
 - **redux-tiles**  
@@ -237,7 +237,7 @@
   Provides opinionated utilities for generating consistent action creators, as well as action creators and reducers for CRUD operations.
   
 - **trampss-redux-factory**  
-  https://github.com/Trampss/trampss-redux-factory  
+  https://github.com/unirakun/k-redux-factory  
   Factory of Redux reducers and their associated actions and selectors - creates generic reducers, actions and selectors in two lines.
   
 - **redux-less**  
@@ -245,7 +245,7 @@
   Write action creators and reducers with less boilerplate, inspired by Mirror
   
 - **redux-enhancer**  
-  https://github.com/bamlab/redux-enhancer  
+  https://github.com/xavierlefevre/redux-async-actions-factory  
   Utilities to generate action types, action creators, and reducers for async loading states (start, success, failed, reset)
   
 - **redux-sketch**  
@@ -253,7 +253,7 @@
   A redux state sketcher to generate a state definition with initial state, action types, action creators and reducer.
   
 - **redux-defmap**  
-  https://github.com/loehx/redux-defmap  
+  https://github.com/loehx/redux-jedi  
   Bring structure to your redux actions and reducers.  Accepts lookup tables, simplifies action creators, and validates payloads.
   
 - **redux-declare**  
@@ -285,7 +285,7 @@
   Tiny and Eloquent way to manage a redux-like state manager 
   
 - **redux-symbiote**  
-  https://github.com/atomixinteractions/redux-symbiote  
+  https://github.com/sergeysova/redux-symbiote  
   Write your actions and reducers without pain
   
 - **speedux**  
@@ -316,7 +316,7 @@
   Easily create actions for managing server resources like fetching, creating, or updating. Provide action types used in your reducer function for updating your redux store based on results from the server.
   
 - **redux-json-api**  
-  https://github.com/dixieio/redux-json-api  
+  https://github.com/redux-json-api/redux-json-api  
   Redux actions, action creators and reducers to make life with JSON APIs a breeze.
 
 - **redux-async-utils**  
@@ -364,7 +364,7 @@
   redux-superapi generates actions and reducers for communicating with a REST backend. Its API is inspired from redux-api, and it uses axios for making the actual AJAX calls. Its goal is short, extensible and highly-readable code.
   
 - **redux-apist**  
-  https://github.com/exeto/redux-apist  
+  https://github.com/exeto-archive/redux-apist  
   Create API-related actions for Redux-Thunk
   
 - **redux-jsonapi**  
@@ -396,7 +396,7 @@
   A library that helps handling requests with redux. It is common problem for many developers - a lot of code required to handle asynchronous actions. You can mitigate it using redux-thunk and redux-simple-api.
   
 - **redux-fetch-actions**  
-  https://github.com/deptno/redux-fetch-actions  
+  https://github.com/deptno/redux-fetch  
   Functions for doing REST API calls and dispatching actions
   
 - **redux-hammock**  
@@ -432,7 +432,7 @@
    Action creators and middleware for making API calls with Axios
   
 - **redux-fetch-duck**  
-  https://github.com/ivanwolf15/redux-fetch-duck  
+  https://github.com/ivanwolf/redux-fetch-duck  
   Simple and flexible API for creating a redux duck to manage a single fetch request, features loading and error states.
   
 - **redux-standard-reducers**  
