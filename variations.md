@@ -1,5 +1,7 @@
 ### Alternate Approaches and Variations
 
+#### pt1
+
 - **redux-controller**  
   https://github.com/lexich/redux-controller  
   redux-controller helps to generate controllers (functions) with access to (dispatch and getState) redux functionality without binding to React components.
@@ -294,6 +296,8 @@
   https://github.com/brianneisler/duxtape  
   Module and util framework for redux. Introduces an abstract module construct for redux. Allows modularization of functionality and easy plug and play workflow
   
+#### pt2
+
 - **redux-kv**  
   https://github.com/watert/redux-kv  
   Key-value util component for redux and redux-react usage
@@ -576,6 +580,8 @@
   https://github.com/d-band/yax  
   Yet another store using redux. (Inspired by vuex and dva) 
   
+#### pt3
+
 - **redux-registry**  
   https://github.com/kwhitley/redux-registry  
   Redux, minus the boilerplate.  Redux is amazing, but the verbosity (const definitions, switch statements in primary reducers, etc) and fragmentation of the redux definitions can be painful to implement. This module adds a heap of magic with just enough flexibility to be useful. It basically just removes the repetitive parts and simplifies the cutting and pasting.
